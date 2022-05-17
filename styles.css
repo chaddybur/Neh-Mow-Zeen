@@ -1,22 +1,33 @@
 body{
-    background-color: #FF8552;
+    background-image: url("background-bear.jpg");
+    background-size: cover;
 }
 h1{
-    color: #297373;
-    margin-left: 43%;
+    color: #FFA400;
+    margin-left: 25%;
     font-family: sans-serif;
-    text-shadow: .5px .5px #39393A;
+    text-shadow: .5px .5px #2A2A72;
 }
-#start{
-    background-color: #85FFC7;
-    color: #39393A;
+#login{
+    background-color: #EAF6FF;
+    color: #2A2A72;
     width: 10rem;
     text-align: center;
     border-radius: 25%;
     font-size: xx-large;
-    box-shadow: 1px 1px #297373;
-    margin-left: 39%;
+    box-shadow: 1px 1px #232528;
+    margin-left: 20%;
     margin-top: 10rem;
+    font-family: sans-serif;
 }
-
-   
+button{
+    width: 6rem;
+    background-color: #009FFD;
+    margin: 2rem;
+    padding: 15px;
+    border-radius: 10px;
+    
+}
+#formBox{
+    margin-left: 15%;
+}
